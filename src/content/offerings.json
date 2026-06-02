@@ -1,0 +1,31 @@
+[
+  {
+    "id": "book2screenplay",
+    "title": "Book2Screenplay",
+    "description": "Transform novels and long-form narratives into production-ready screenplays using GenAI pipelines, structural analysis, and cinematic formatting.",
+    "tags": ["GenAI", "Entertainment", "NLP"],
+    "href": "https://crankshaftnews.github.io/book2screenplay/",
+    "status": "live"
+  },
+  {
+    "id": "automated-news",
+    "title": "Automated News Pipeline",
+    "description": "Agentic AI workflows that ingest, verify, synthesize, and publish news stories with human-in-the-loop editorial controls.",
+    "tags": ["Agentic AI", "News", "Automation"],
+    "status": "beta"
+  },
+  {
+    "id": "cgi-storytelling",
+    "title": "CGI Storytelling Studio",
+    "description": "Generative CGI pipelines for visual news segments, explainers, and entertainment content — from script to rendered scene.",
+    "tags": ["CGI", "GenAI", "Video"],
+    "status": "coming-soon"
+  },
+  {
+    "id": "news-research-lab",
+    "title": "News Research Lab",
+    "description": "Research tooling for automated fact-checking, source triangulation, and narrative drift detection across media ecosystems.",
+    "tags": ["Research", "Agentic AI", "Verification"],
+    "status": "beta"
+  }
+]

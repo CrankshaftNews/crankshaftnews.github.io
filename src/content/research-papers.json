@@ -1,0 +1,38 @@
+[
+  {
+    "id": "agentic-news-architecture",
+    "title": "Agentic Architectures for Automated News Generation",
+    "abstract": "A composable framework for multi-agent news pipelines — from source ingestion and claim extraction to synthesis, editorial review, and publication — with audit trails at every stage.",
+    "authors": ["Shyamal Suhana Chandra"],
+    "year": 2025,
+    "tags": ["Agentic AI", "News Automation", "Architecture"],
+    "href": "#"
+  },
+  {
+    "id": "genai-cgi-pipelines",
+    "title": "GenAI-Driven CGI Pipelines for Narrative Entertainment",
+    "abstract": "Exploring end-to-end generative pipelines that convert structured narratives into CGI-ready storyboards, scene descriptions, and rendered visual assets for news and entertainment.",
+    "authors": ["Shyamal Suhana Chandra"],
+    "year": 2025,
+    "tags": ["GenAI", "CGI", "Entertainment"],
+    "href": "#"
+  },
+  {
+    "id": "book-to-screenplay",
+    "title": "Large-Scale Book-to-Screenplay Adaptation with LLMs",
+    "abstract": "Methodology and evaluation metrics for adapting long-form literary works into screenplays while preserving narrative structure, character arcs, and cinematic pacing.",
+    "authors": ["Shyamal Suhana Chandra"],
+    "year": 2025,
+    "tags": ["GenAI", "NLP", "Screenwriting"],
+    "href": "https://crankshaftnews.github.io/book2screenplay/"
+  },
+  {
+    "id": "verification-agents",
+    "title": "Multi-Agent Verification Systems for Synthetic Media",
+    "abstract": "Research on agent ensembles that cross-reference claims, detect hallucinations, and score source reliability in AI-generated news and entertainment content.",
+    "authors": ["Shyamal Suhana Chandra"],
+    "year": 2026,
+    "tags": ["Verification", "Agentic AI", "Trust & Safety"],
+    "href": "#"
+  }
+]
