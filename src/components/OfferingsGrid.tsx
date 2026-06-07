@@ -10,9 +10,9 @@ export function OfferingsGrid({ offerings }: OfferingsGridProps) {
     <section id="offerings" className="scroll-mt-24 py-20">
       <div className="mx-auto max-w-6xl px-6">
         <SectionHeading
-          eyebrow="What We Build"
-          title="Crankshaft News Offerings"
-          description="Composable AI pipelines for news automation, CGI storytelling, and generative entertainment — each designed to extend independently."
+          eyebrow="Projects"
+          title="Crankshaft News Projects & Offerings"
+          description="Composable AI pipelines and live projects for news automation, CGI storytelling, generative audio, and entertainment — each designed to extend independently."
         />
 
         <div className="mt-12 grid gap-6 sm:grid-cols-2">

@@ -8,6 +8,14 @@
     "status": "live"
   },
   {
+    "id": "generative-agentic-radiostation",
+    "title": "Generative Agentic Radiostation",
+    "description": "Autonomous AI-powered radio in Rust with DJ agents, real-time audio processing, and HTTP streaming for agent-driven media generation.",
+    "tags": ["Agentic AI", "Rust", "Audio"],
+    "href": "https://shyamalschandra.github.io/agentic-radiostation-rust/",
+    "status": "live"
+  },
+  {
     "id": "automated-news",
     "title": "Automated News Pipeline",
     "description": "Agentic AI workflows that ingest, verify, synthesize, and publish news stories with human-in-the-loop editorial controls.",
