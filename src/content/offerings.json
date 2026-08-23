@@ -1,5 +1,13 @@
 [
   {
+    "id": "micromachina",
+    "title": "MicroMachina",
+    "description": "Turbo music-video commercial generation pipeline that turns a one-sentence pitch into a 60-second high-velocity ad with synchronized audio and video.",
+    "tags": ["GenAI", "Video", "Audio"],
+    "href": "https://crankshaftnews.github.io/closedrooter-jhaa/",
+    "status": "live"
+  },
+  {
     "id": "book2screenplay",
     "title": "Book2Screenplay",
     "description": "Transform novels and long-form narratives into production-ready screenplays using GenAI pipelines, structural analysis, and cinematic formatting.",
